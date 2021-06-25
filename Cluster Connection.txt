@@ -1,0 +1,5 @@
+
+Mongoes Connection -mongodb+srv://solar:solar@1234@cluster0.stxu4.mongodb.net/test
+
+node connection - mongodb+srv://solar:<password>@cluster0.stxu4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
